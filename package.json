@@ -1,0 +1,19 @@
+{
+  "name": "sample-botpidaras",
+  "version": "1.0.0",
+  "description": "vk bot",
+  "main": "ботсусанин.js",
+  "scripts": {
+    "start": "node ботсусанин.js"
+  },
+  "engines": {
+  	"node": "10.15.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "botact": "^2.4.2",
+    "express": "^4.16.4"
+  }
+}
